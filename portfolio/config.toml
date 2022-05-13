@@ -33,22 +33,16 @@ imageHeight = 120
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/TylerPham2000"
-GitHub = "xxxx"
-Linkedin = "xxxx"
-Instagram = "xxxx"
-Email   = "xxxx"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/tyler-pham-/"
 
 [[menu.main]]
 identifier = "blog"
 name = "About me"
 url = "/blog/"
 weight = 10
-
-[[menu.main]]
-identifier = "skills"
-name = "Skills"
-url = "/skills/"
-weight = 20
 
 [[menu.main]]
 identifier = "projects"
@@ -60,4 +54,10 @@ weight = 20
 identifier = "resume"
 name = "Resume"
 url = "/resume/"
+weight = 20
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
 weight = 20
