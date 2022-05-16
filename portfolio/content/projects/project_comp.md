@@ -20,4 +20,5 @@ implementation into financial systems. More specifically, a machine learning
 algorithm was also used in conjunction with the VADER sentiment analysis
 approach to give my model predictive power.
 
-You can follow the link below to learn more about the datasets and methods of approach used. [Bitcoin-Price-Prediction](https://github.com/TylerPham2000/Bitcoin-Price-Prediction)
+You can follow the link below to learn more about the datasets and methods of
+approach used. [Bitcoin-Price-Prediction](https://github.com/TylerPham2000/Bitcoin-Price-Prediction)!

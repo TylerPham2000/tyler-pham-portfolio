@@ -20,4 +20,4 @@ overall score for each user based on various metrics such as:
 teamwork performance, lines added/removed, and the amount of pull requests
 which were created.
 
-The current release of this project could be seen at the link below. [GatorCogitate](https://github.com/GatorCogitate/cogitate_tool)
+The current release of this project could be seen at the link below. [GatorCogitate](https://github.com/GatorCogitate/cogitate_tool)!
