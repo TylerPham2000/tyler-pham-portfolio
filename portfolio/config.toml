@@ -21,7 +21,7 @@ disableScrollToTop = false
 
 [params.profileMode]
 enabled = true
-title = "Tyler pham"
+title = "Tyler Pham"
 subtitle = "Hello, welcome to my portfolio!"
 imageUrl = "profile_pic.png"
 imageWidth = 120
