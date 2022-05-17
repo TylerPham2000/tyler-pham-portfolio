@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tyler Pham</title>
+    <link>/</link>
+    <description>Recent content on Tyler Pham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Nov 2021 08:10:29 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Machine Learning And Sentiment Analysis To Predict the Price Of Bitcoin</title>
+      <link>/projects/project_comp/</link>
+      <pubDate>Tue, 02 Nov 2021 08:10:29 -0400</pubDate>
+      
+      <guid>/projects/project_comp/</guid>
+      <description>About the project This project was completed as part of my Senior Project which is an independent study in which I conducted research about a topic I found interest in. For my senior project I decided to develop a tool that is able to predict the price of Bitcoin based on the sentiments of Twitter tweets. I selected this project because I have always found interest in cryptocurrencies and its future implementation into financial systems.</description>
+    </item>
+    
+    <item>
+      <title>Gator Cogitate</title>
+      <link>/projects/project_cogitate/</link>
+      <pubDate>Thu, 19 Nov 2020 08:10:29 -0400</pubDate>
+      
+      <guid>/projects/project_cogitate/</guid>
+      <description>About the project I participated in a software engineering project with the goal of creating a tool that evaluates the level of contributions for each member within a GitHub repository. I contributed to this project by implementing features that displayed performance metrics of each member through visual representations such as graphs with the use of Streamlit. This tool is able to generate an overall score for each user based on various metrics such as: teamwork performance, lines added/removed, and the amount of pull requests which were created.</description>
+    </item>
+    
+    <item>
+      <title>Contact Form</title>
+      <link>/contact/contact_form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/contact_form/</guid>
+      <description>  Your Name:   Your Email:   Message:   Send  </description>
+    </item>
+    
+    <item>
+      <title>Tyler Pham&#39;s Resume</title>
+      <link>/resume/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/resume/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
