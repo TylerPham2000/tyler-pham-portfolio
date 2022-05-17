@@ -7,4 +7,5 @@ cover:
   image: "/resume_tyler_pham.PNG"
   caption: "resume."
 ---
-[Click to see my resume!](/resume_tyler_pham.png)
+
+Click the link below to view my resume!
